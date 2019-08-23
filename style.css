@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    font-family: cursive;
+}
+
+h1 {
+    color: white; 
+    background-color: #000080; 
+    text-align:center;  
+    font-size:300%;
+}
+
+.important {
+    color: black;
+    font-size: 300%;
+    background-color: gold;
+}
+
+h4 {
+    color: crimson;
+    font-size: 250%;
+}
+
+.PS {
+    background-color: azure;
+}
